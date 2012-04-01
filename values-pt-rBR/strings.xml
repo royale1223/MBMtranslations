@@ -176,18 +176,4 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="sizdatamb">Tamanho do data.img em MiB</string>
     <string name="sizsysmb">Tamanho do system.img em MiB</string>
     <string name="icon_prompt">Escolha um ícone</string>
-
-    <string-array name="icon_array">
-        <item>Argent2Stone</item>
-        <item>Android</item>
-        <item>CyanogenMod 7</item>
-        <item>CyanogenMod 9</item>
-        <item>Froyo</item>
-        <item>GingerBeard</item>
-        <item>MIUI</item>
-        <item>Motorola</item>
-        <item>Picachu MIUI</item>
-        <item>WhiteRabbit MIUI</item>
-        <item>WIUI</item>
-    </string-array>
 </resources>

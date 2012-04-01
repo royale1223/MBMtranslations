@@ -180,11 +180,11 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="shrtdesc">Enter short description :</string>
     <string name="entername">Enter desired name</string>
     <string name="entdesc">Description</string>
-    <string name="sizcachemb">Size of cache.img in MiB</string>
+    <string name="sizcachemb">Size of cache in MB</string>
     <string name="namevfs">Name of VFS</string>
     <string name="entsize">Enter desired size</string>
-    <string name="sizdatamb">Size of data.img in MiB</string>
-    <string name="sizsysmb">Size of systemimg in MiB</string>
+    <string name="sizdatamb">Size of data in MB</string>
+    <string name="sizsysmb">Size of system in MB</string>
     <string name="icon_prompt">Choose an icon</string>
 
     <string-array name="icon_array">
@@ -193,12 +193,18 @@ Web Site: http://www.ubuntumaster.tk/
         <item>CyanogenMod 7</item>
         <item>CyanogenMod 9</item>
         <item>Froyo</item>
-        <item>GingerBeard</item>
+        <item>gingerBread</item>
         <item>MIUI</item>
         <item>Motorola</item>
-        <item>Picachu MIUI</item>
+        <item>Pikachu MIUI</item>
         <item>WhiteRabbit MIUI</item>
         <item>WIUI</item>
+        <item >AKOP</item>
+        <item >CodeName</item>
+        <item >MIUI v4</item>
+        <item >Cherry Picks</item>
+        <item >Epsylon3</item>
+        <item >Quarx2k</item>
     </string-array>
 <string name="createvfs">Create new VFS</string>
 <string name="refresui">Refresh UI</string>
