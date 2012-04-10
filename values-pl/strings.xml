@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Translator: Dawid Rudzik <rudzikdawid@gmail.com> -->
 <resources>
 
     <string name="app_name">Multi Boot Manager Free</string>
@@ -10,10 +9,10 @@
     <string name="resize">Zmień rozmiar</string>
     <string name="seticon">Ustaw ikonę</string>
     <string name="delete">Usuń\u0020</string>
-    <string name="reset">Reset ustawień fabrycznych</string>
+    <string name="reset">Ustawienia fabryczne</string>
     <string name="setdefault">Ustaw jako domyślny</string>
     <string name="description">Multi Boot Manager Free</string>
-    <string name="nodata">Nie znaleziono obrazu systemu plików!!!</string>
+    <string name="nodata">Nie znaleziono obrazu VFS!!!</string>
     <string name="wipe">Wipe VFS</string>
     <string name="sysinfo">Informacje o systemie</string>
     <string name="okay">OK</string>
@@ -21,12 +20,12 @@
     <string name="seticfor">Ustaw ikonę dla\u0020</string>
     <string name="rusure">Jesteś pewny?</string>
     <string name="fdaco">Formatuj Dane i Cache\u0020</string>
-    <string name="wantreset">Chcesz sformatować cache.img oraz data.img z\u0020</string>
+    <string name="wantreset">Chcesz sformatować cache.img oraz data.img w\u0020</string>
     <string name="formating">Formatowanie\u0020</string>
-    <string name="cachext3">/cache.img na ext3....</string>
-    <string name="dataext3">/data.img na ext3....</string>
+    <string name="cachext3">/cache.img do ext3....</string>
+    <string name="dataext3">/data.img do ext3....</string>
     <string name="wipe2">Wipe\u0020</string>
-    <string name="systemext3">/system.img na ext3....</string>
+    <string name="systemext3">/system.img do ext3....</string>
     <string name="mbnactive">MULTIBOOT nieaktywny</string>
     <string name="mbactive">MULTIBOOT aktywny</string>
     <string name="uuidna">UUID\t\t\t\t\t\t: N/A</string>
@@ -36,7 +35,7 @@
     <string name="freesp">Wolne miejsce \t\t\t:\u0020</string>
     <string name="miB">MB/</string>
     <string name="miBf">MB wolnego miejsca</string>
-    <string name="bcount">Wielkość bloku\t\t\t:\u0020</string>
+    <string name="bcount">Ilość bloków\t\t\t:\u0020</string>
     <string name="fbcount">Wolne bloki\t\t\t:\u0020</string>
     <string name="blsiz">Rozmiar bloku\t\t\t:\u0020</string>
     <string name="newvfs">Nowy VFS</string>
@@ -51,51 +50,51 @@
     <string name="license">Licencja</string>
     <string name="abouttext">"Multi Boot Manager Free 1.0 for Motorola Defy
 
-Authors
+Autorzy
 =======
 Binoy Babu (royale1223@gmail.com)
 
-Thanks to
+Podziękowania dla
 =========
-m11kkaa for multiboot and advise
-diamond_lover for italian translation
-Quarx2k for valuable advise and ICS
-Epsylon3 for ICS
-adamo3957 for testing
-XDA forum
+m11kkaa za multiboot i rady
+diamond_lover za tłumaczenie włoskie
+Quarx2k za cenne rady i ICS
+Epsylon3 za ICS
+adamo3957 za testowanie
+forum XDA
 
-Reqirements
+Wymagania
 ===========
-1) Rooted Motorola Defy/Defy+/Bravo with 2nd init bootmenu installed
-2) Multiboot feature by m11kkaa 0.51
+1) Zrootowana Motorola Defy/Defy+/Bravo z zainstalowanym 2nd init bootmenu
+2) Multiboot by m11kkaa 0.51
 
-Features
+Funkcje
 ========
-* Supports any number of ROMs
-* Full support for multiboot 0.51
-* Support multiple fsimages
-* Create, recycle and format virtual systems.
-* Delete, rename and edit description of each entry.
-* Shows size of the VFS.
-* Much more..
+* Wspiera dowolną liczbę ROMów
+* Pełne wsparcie dla multiboot 0.51
+* Wspiera wiele obrazów
+* Tworzy, usuwa i formatuje wirtualne systemy.
+* Usuwa, zmienia i edytuje opisy każdego wpisu.
+* Pokazuje rozmiary obrazów VFS.
+* Dużo więcej..
 
-What is this?
+Co to jest?
 =============
-A manager for Virtual File Systems (fsimages) in your sdcard.
+Menedżer wirtualnych systemów plików (VFS) (fsimages) na twojej karcie SD (sdcard).
 
-How to use this?
+Jak tego używać?
 ================
-1) First of all a custom ROM should be installed as base. Preferably the latest CM9/CM7 nightly to get the latest 2nd-init bootmenu.
-2) Then flash defy_multiboot_v0.5.1.zip by m11kkaa. You can get it from here.
-3) Install  MultiBootManagerFree_v1.22_final_royale1223.apk
-4) Now open Mult Boot Manager from app drawer. Create new VFS from options. You can see now the new VFS listed. You just created your first VFS.
-5) If you need MBM to detect your already existing VFS folders. You have to move them to /mnt/sdcard/multiboot.
-6) Instructions for using multiboot 0.51 here, thanks joydeep1985.
-7) If you have coming from leodfs multiboot, you have to restart from step 1. I hope you have enough knowledge to figure out which steps to skip.
-8) Rest of the options in MultiBootManager are pretty self explanatory. Please make use of the context menu(long click menu).
-9) Please report bugs and any features you want. I'm bit busy now but I'll fix/implement them later.
-10) This app now works in virtual system also. 
-11) This app will work on all GB and ICS ROMs with 2nd init."</string>
+1) Najpierw powinien zostać zainstalowany dowolny custom ROM jako baza. Najlepsze będzie ostatnie nightly CM9/CM7, po to by uzyskać najnowszą wersję 2nd-init.
+2) Potem wgraj defy_multiboot_v0.5.1.zip by m11kkaa. Możesz go pobrać stąd.
+3) Zainstaluj  MultiBootManagerFree_v1.22_final_royale1223.apk
+4) Teraz otwórz Multi Boot Manager z launchera. Utwórz nowy VFS w opcjach. Teraz zobaczysz nowy VFS na liście. Utworzyłeś swój pierwszy VFS.
+5) Jeśli potrzebujesz, by MBM wykrył twoje istniejące obrazy, powinieneś przenieść je do /mnt/sdcard/multiboot.
+6) Instructions for using multiboot 0.51 here, thanks joydeep1985..
+7) Jeśli przechodzisz z multiboot by leodfs, musisz zacząć od punktu 1. Mam nadzieję, że posiadasz odpowiednią wiedzę, aby zorientować się, które punkty ominąć.
+8) Reszta opcji w MultiBootManager jest dość dobrze wyjaśniona. Używaj menu kontekstowego (długie naciśnięcie).
+9) Proszę, reportuj bugi i pisz jakich funkcji oczekujesz. Jestem teraz dość zajęty ale poprawię je/zaimplementuję je później. 
+10) Aplikacja działa teraz również w wirtualnym systemie.
+11) Aplikacja powinna działać na wszystkich ROMach GB i ICS z 2nd-init."</string>
     <string name="licensetext">"Licence Agreement
 =================
 
@@ -159,22 +158,22 @@ Contact
 Email: royale1223@gmail.com
 Web Site: http://www.ubuntumaster.tk/
 "</string>
-    <string name="smiB">\u0020MB\u0020</string>
+    <string name="smiB">\u0020MB</string>
     <string name="error">Błąd\u0020</string>
-    <string name="caches">cache: </string>
-    <string name="datas">dane: </string>
+    <string name="caches">cache : </string>
+    <string name="datas">dane : </string>
     <string name="systems">system: </string>
     <string name="healthy">zdrowy</string>
     <string name="newvfsi">Nowy VFS (</string>
     <string name="newname">Nazwa</string>
-    <string name="shrtdesc">Wprowadź krótki opis :</string>
+    <string name="shrtdesc">Wpisz krótki opis :</string>
     <string name="entername">Wpisz żądaną nazwę</string>
     <string name="entdesc">Opis</string>
-    <string name="sizcachemb">Wielkość cache.img w MiB</string>
+    <string name="sizcachemb">Rozmiar cache.img w MiB</string>
     <string name="namevfs">Nazwa VFS</string>
-    <string name="entsize">Wpisz żądany rozmiar</string>
-    <string name="sizdatamb">Wielkość data.img w MiB</string>
-    <string name="sizsysmb">Wielkość system.img w MiB</string>
+    <string name="entsize">Wpisz rozmiar</string>
+    <string name="sizdatamb">Rozmiar data.img w MiB</string>
+    <string name="sizsysmb">Rozmiar system.img w MiB</string>
     <string name="icon_prompt">Wybierz ikonę</string>
 
     <string-array name="icon_array">
@@ -193,5 +192,5 @@ Web Site: http://www.ubuntumaster.tk/
 <string name="createvfs">Utwórz nowy VFS</string>
 <string name="refresui">Odśwież UI</string>
 <string name="repbug">Zgłóś błąd</string>
-<string name="wantwipe">Chcesz sformatować cache.img, data.img, system.img z\u0020</string>
+<string name="wantwipe">Chcesz sformatować cache.img, data.img, system.img w\u0020</string>
 </resources>
