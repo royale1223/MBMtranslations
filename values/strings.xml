@@ -193,4 +193,9 @@ Web Site: http://www.ubuntumaster.tk/
 <string name="refresui">Refresh UI</string>
 <string name="repbug">Report a bug</string>
 <string name="wantwipe">Do you want to format cache.img, data.img and system.img from\u0020</string>
+<string name="currsys">Current System</string>
+<string name="currrom">Current ROM</string>
+<string name="currkernel">Current Kernel</string>
+<string name="currpath">Current path</string>
+<string name="device">Device</string>
 </resources>
