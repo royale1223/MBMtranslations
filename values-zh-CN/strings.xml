@@ -180,4 +180,9 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="repbug">报告Bug</string>
     <string name="wantwipe">你确认要格式化Cache、Data和System吗？
 位置：\u0020</string>
+    <string name="currsys">当前系统</string>
+    <string name="currrom">当前固件版本</string>
+    <string name="currkernel">当前内核版本</string>
+    <string name="currpath">当前系统路径</string>
+    <string name="device">手机型号</string>
 </resources>
