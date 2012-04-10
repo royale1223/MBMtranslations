@@ -160,9 +160,9 @@ Email: royale1223@gmail.com
 Site Web: http://www.ubuntumaster.tk/
 "</string>
     <string name="smiB">\u0020MB</string>
-    <string name="error">Error\u0020</string>
-    <string name="caches">cache : </string>
-    <string name="datas">data : </string>
+    <string name="error">\u0020Error\u0020</string>
+    <string name="caches">cache: </string>
+    <string name="datas">data: </string>
     <string name="systems">system: </string>
     <string name="healthy">Etat normal</string>
     <string name="newvfsi">New VFS (</string>

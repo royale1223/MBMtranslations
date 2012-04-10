@@ -49,10 +49,10 @@
     <string name="agree">Akkoord</string>
     <string name="about">Over</string>
     <string name="license">Licentie</string>
-    <string name="smiB">\u0020MB</string>
+    <string name="smiB">\u0020MB\u0020</string>
     <string name="error">Fout\u0020</string>
-    <string name="caches">cache :</string>
-    <string name="datas">data :</string>
+    <string name="caches">cache:</string>
+    <string name="datas">data:</string>
     <string name="systems">system:\u0020</string>
     <string name="healthy">gezond</string>
     <string name="newvfsi">Nieuw VFS (</string>
