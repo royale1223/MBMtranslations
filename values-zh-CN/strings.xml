@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Translator: dlhxr@xda -->
 <resources>
     <string name="app_name">多系统启动免费版</string>
     <string name="newitem">新建</string>
     <string name="edit">编辑</string>
-    <string name="edits">编辑\u0020</string>
+    <string name="edits">"编辑 "</string>
     <string name="details">详情</string>
     <string name="resize">改变大小</string>
     <string name="seticon">设置图标</string>
@@ -18,10 +17,11 @@
     <string name="okay">确定</string>
     <string name="cancel">取消</string>
     <string name="seticfor">"设置图标给 "</string>
-    <string name="rusure">你确定?</string>
+    <string name="rusure">你确定要删除虚拟系统?</string>
     <string name="fdaco">"格式化data和system分区 "</string>
-    <string name="wantreset">"你确定想格式化data和system分区 "</string>
-    <string name="formating">"格式化中 "</string>
+    <string name="wantreset">"你确定想格式化Data和System分区？
+位置："</string>
+    <string name="formating">"格式化 "</string>
     <string name="cachext3">/cache.img 到 ext3....</string>
     <string name="dataext3">/data.img 到 ext3....</string>
     <string name="wipe2">"清除 "</string>
@@ -38,7 +38,7 @@
     <string name="bcount">"扇区数     \u0009\u0009\u0009: "</string>
     <string name="fbcount">"空闲扇区   \u0009\u0009\u0009: "</string>
     <string name="blsiz">"扇区大小   \u0009\u0009\u0009: "</string>
-    <string name="newvfs">新的虚拟系统镜像</string>
+    <string name="newvfs">虚拟系统</string>
     <string name="mknewfold">"正在创建新的虚拟系统镜像 "</string>
     <string name="creating">"创建中 "</string>
     <string name="cacheimg">/cache.img....</string>
@@ -56,11 +56,10 @@ Binoy Babu (royale1223@gmail.com)
 
 致谢
 =========
-m11kkaa multiboot特性制作
-diamond_lover 意大利语言翻译
-Quarx2k 关键的帮助和ICS
-Epsylon3 ICS
-adamo3957 测试
+m11kkaa 多系统启动功能制作和建议
+Quarx2k 关键的帮助和冰淇淋三明治系统
+Epsylon3 冰淇淋三明治系统
+adamo3957 辛苦的测试
 XDA 论坛
 
 需求
@@ -158,10 +157,10 @@ Contact
 Email: royale1223@gmail.com
 Web Site: http://www.ubuntumaster.tk/
 "</string>
-    <string name="smiB">"\u0020MB\u0020"</string>
+    <string name="smiB">" MB"</string>
     <string name="error">"错误 "</string>
-    <string name="caches">cache:</string>
-    <string name="datas">data:</string>
+    <string name="caches">cache :</string>
+    <string name="datas">data :</string>
     <string name="systems">system:</string>
     <string name="healthy">健康</string>
     <string name="newvfsi">新的虚拟镜像 (</string>
@@ -173,6 +172,11 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="namevfs">虚拟系统名称</string>
     <string name="entsize">键入大小</string>
     <string name="sizdatamb">data.img 大小(MiB)</string>
-    <string name="sizsysmb">systemimg 大小(MiB)</string>
+    <string name="sizsysmb">system.img 大小(MiB)</string>
     <string name="icon_prompt">选择一个图标</string>
+	<string name="createvfs">新建虚拟系统镜像</string>
+	<string name="refresui">刷新</string>
+	<string name="repbug">报告Bug</string>
+	<string name="wantwipe">你确认要格式化Cache、Data和System吗？
+位置：\u0020</string>
 </resources>
