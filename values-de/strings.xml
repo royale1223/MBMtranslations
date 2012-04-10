@@ -36,7 +36,7 @@
     <string name="freesp">Freier Speicher \t\t\t:\u0020</string>
     <string name="miB">MB/</string>
     <string name="miBf">MB frei</string>
-    <string name="bcount">Block Count\t\t\t:\u0020</string>
+    <string name="bcount">Block-Anzahl\t\t\t:\u0020</string>
     <string name="fbcount">Freie Blocks\t\t\t:\u0020</string>
     <string name="blsiz">Block Größe\t\t\t:\u0020</string>
     <string name="newvfs">Neues VDS</string>
@@ -51,7 +51,7 @@
     <string name="license">Lizenz</string>
     <string name="abouttext">"Multi Boot Manager Free 1.0 für Motorola Defy
 
-Authoren
+Autoren
 =======
 Binoy Babu (royale1223@gmail.com)
 
