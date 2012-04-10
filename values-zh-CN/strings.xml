@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Translator: dlhxr@xda -->
 <resources>
     <string name="app_name">多系统启动免费版</string>
     <string name="newitem">新建</string>
     <string name="edit">编辑</string>
-    <string name="edits">"编辑 "</string>
+    <string name="edits">编辑\u0020</string>
     <string name="details">详情</string>
     <string name="resize">改变大小</string>
     <string name="seticon">设置图标</string>
@@ -157,10 +158,10 @@ Contact
 Email: royale1223@gmail.com
 Web Site: http://www.ubuntumaster.tk/
 "</string>
-    <string name="smiB">" MB"</string>
+    <string name="smiB">\u0020MB\u0020</string>
     <string name="error">"错误 "</string>
-    <string name="caches">cache :</string>
-    <string name="datas">data :</string>
+    <string name="caches">cache:</string>
+    <string name="datas">data:</string>
     <string name="systems">system:</string>
     <string name="healthy">健康</string>
     <string name="newvfsi">新的虚拟镜像 (</string>
