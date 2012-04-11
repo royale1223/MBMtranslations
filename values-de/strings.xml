@@ -17,7 +17,7 @@
     <string name="wipe">Formatiere komplettes VDS</string>
     <string name="sysinfo">System Info</string>
     <string name="okay">Okay</string>
-    <string name="cancel">Cancel</string>
+    <string name="cancel">Abbrechen</string>
     <string name="seticfor">Wähle Icon für\u0020</string>
     <string name="rusure">Bist du dir sicher?</string>
     <string name="fdaco">Formatiere Data und Cache von\u0020</string>
@@ -193,4 +193,9 @@ Web Site: http://www.ubuntumaster.tk/
 <string name="refresui">Aktualisiere UI</string>
 <string name="repbug">Bug melden</string>
 <string name="wantwipe">Willst du cache.img, data.img und system.img von\u0020 formatieren?</string>
+<string name="currsys">Aktuelles System</string>
+<string name="currrom">Aktueller ROM</string>
+<string name="currkernel">Aktueller Kernel</string>
+<string name="currpath">Aktueller Pfad</string>
+<string name="device">Gerät</string>
 </resources>
