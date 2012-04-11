@@ -208,4 +208,8 @@ Web Site: http://www.ubuntumaster.tk/
 <string name="currkernel">Current Kernel</string>
 <string name="currpath">Current path</string>
 <string name="device">Device</string>
+<string name="none">None</string>
+<string name="nand">NAND</string>
+<string name="na">N/A</string>
+<string name="corrupted">corrupted</string>
 </resources>
