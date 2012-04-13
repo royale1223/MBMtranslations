@@ -105,7 +105,7 @@ How to use this?
 9) Please report bugs and any features you want. I'm bit busy now but I'll fix/implement them later.
 10) This app now works in virtual system also. 
 11) This app will work on all GB and ICS ROMs with 2nd init."</string>
-  <string name="licensetext">"הסכם רישיון
+  <string name="licensetext">"הסכם רישיו
 =================
 
 עליך לקרוא את התנאים הבאים לפני השימוש בתוכנה זו.
@@ -122,7 +122,7 @@ How to use this?
 
 אתה רשאי לסיים את הרישיון בכל עת על ידי מחיקה או להרוס, תוכנה תיעוד כל העותקים. ללא עמלת רישיון הוא יוחזר. אנו עשויים לסיים את רישיון בכל עת אם אתה נמצא מפר אחד מתנאים אלה.
 
-על אף כל הוראה אחרת רישיון זה, מי שאינו צד רישיון זה אין זכות על פי החוזים (זכויות של צדדים שלישיים) חוק 1999 ("חוק") להסתמך על או לאכוף כל הטווח של רישיון זה. אין רישיון זה ישפיע על כל זכות או סעד של צד שלישי אשר קיים או זמין מלבד חוק זה.
+על אף כל הוראה אחרת רישיון זה, מי שאינו צד רישיון זה אין זכות על פי החוזים (זכויות של צדדים שלישיים) חוק 1999 ("חוק) להסתמך על או לאכוף כל הטווח של רישיון זה. אין רישיון זה ישפיע על כל זכות או סעד של צד שלישי אשר קיים או זמין מלבד חוק זה.
 
 
 הודעה על זכויות יוצרים
@@ -166,8 +166,8 @@ How to use this?
 ליצור קשר
 -------
 דוא"ל: royale1223@gmail.com
-אתר אינטרנט: http://www.ubuntumaster.tk/
-"</string>
+אתר אינטרנט: http://www.ubuntumaster.tk/""
+</string>
   <string name="smiB">\u0020MB\u0020</string>
   <string name="error">Error\u0020</string>
   <string name="caches">מטמון:</string>
