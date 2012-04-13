@@ -158,7 +158,7 @@ Contact
 Email: royale1223@gmail.com
 Web Site: http://www.ubuntumaster.tk/
 "</string>
-    <string name="smiB">\u0020MB\u0020</string>
+    <string name="smiB">MB\u0020</string>
     <string name="error">"错误 "</string>
     <string name="caches">cache:</string>
     <string name="datas">data:</string>

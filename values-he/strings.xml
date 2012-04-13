@@ -168,7 +168,7 @@ How to use this?
 דוא"ל: royale1223@gmail.com
 אתר אינטרנט: http://www.ubuntumaster.tk/""
 </string>
-  <string name="smiB">\u0020MB\u0020</string>
+  <string name="smiB">MB\u0020</string>
   <string name="error">Error\u0020</string>
   <string name="caches">מטמון:</string>
   <string name="datas">נתונים:</string>
