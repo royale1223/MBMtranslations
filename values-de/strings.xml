@@ -198,4 +198,8 @@ Web Site: http://www.ubuntumaster.tk/
 <string name="currkernel">Aktueller Kernel</string>
 <string name="currpath">Aktueller Pfad</string>
 <string name="device">Gerät</string>
+<string name="none">keins</string>
+<string name="nand">NAND</string>
+<string name="na">N/V</string>
+<string name="corrupted">beschädigt</string>
 </resources>
