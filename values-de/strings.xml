@@ -3,29 +3,18 @@
 <resources>
 
     <string name="app_name">Multi Boot Manager Free</string>
-    <string name="newitem">Neu</string>
     <string name="edit">Bearbeiten</string>
     <string name="edits">Bearbeite\u0020</string>
-    <string name="details">Details</string>
-    <string name="resize">Größe ändern</string>
-    <string name="seticon">Icon wählen</string>
     <string name="delete">Lösche\u0020</string>
-    <string name="reset">Werkseinstellung</string>
-    <string name="setdefault">Als Standard wählen</string>
     <string name="description">Multi Boot Manager Free</string>
     <string name="nodata">Keine "fsimages" gefunden!!!</string>
-    <string name="wipe">Formatiere komplettes VDS</string>
     <string name="sysinfo">System Info</string>
     <string name="okay">Okay</string>
     <string name="cancel">Abbrechen</string>
-    <string name="seticfor">Wähle Icon für\u0020</string>
     <string name="rusure">Bist du dir sicher?</string>
-    <string name="fdaco">Formatiere Data und Cache von\u0020</string>
-    <string name="wantreset">Willst du wirklich cache.img und data.img von\u0020 formatieren?</string>
     <string name="formating">Formatiere\u0020</string>
     <string name="cachext3">/cache.img zu ext3....</string>
     <string name="dataext3">/data.img zu ext3....</string>
-    <string name="wipe2">Formatiere\u0020</string>
     <string name="systemext3">/system.img zu ext3....</string>
     <string name="mbnactive">MULTIBOOT inaktiv</string>
     <string name="mbactive">MULTIBOOT aktiv</string>
@@ -39,7 +28,6 @@
     <string name="bcount">Block-Anzahl\t\t\t:\u0020</string>
     <string name="fbcount">Freie Blocks\t\t\t:\u0020</string>
     <string name="blsiz">Block Größe\t\t\t:\u0020</string>
-    <string name="newvfs">Neues VDS</string>
     <string name="mknewfold">Erstelle neuen Ordner\u0020</string>
     <string name="creating">Erstelle\u0020</string>
     <string name="cacheimg">/cache.img....</string>
@@ -164,21 +152,12 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="datas">data: </string>
     <string name="systems">system: </string>
     <string name="healthy">unbeschädigt</string>
-    <string name="newvfsi">Neues VDS (</string>
-    <string name="newname">Name</string>
     <string name="shrtdesc">Gib eine kurze Beschreibung ein :</string>
     <string name="entername">Gib den gewünschten Namen ein</string>
-    <string name="entdesc">Beschreibung</string>
-    <string name="sizcachemb">Größe von cache.img in MB</string>
-    <string name="namevfs">Name des VDS</string>
-    <string name="entsize">Gib die gewünschte Größe ein</string>
-    <string name="sizdatamb">Größe von data.img in MB</string>
-    <string name="sizsysmb">Größe von system.img in MB</string>
     <string name="icon_prompt">Wähle ein Icon</string>
 <string name="createvfs">Erstelle neues VDS</string>
 <string name="refresui">Aktualisiere UI</string>
 <string name="repbug">Bug melden</string>
-<string name="wantwipe">Willst du cache.img, data.img und system.img von\u0020 formatieren?</string>
 <string name="currsys">Aktuelles System</string>
 <string name="currrom">Aktueller ROM</string>
 <string name="currkernel">Aktueller Kernel</string>
@@ -188,4 +167,6 @@ Web Site: http://www.ubuntumaster.tk/
 <string name="nand">NAND</string>
 <string name="na">N/V</string>
 <string name="corrupted">beschädigt</string>
+<string name="newvfsi">Neues VDS (</string>
+
 </resources>

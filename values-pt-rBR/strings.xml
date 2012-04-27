@@ -2,29 +2,18 @@
 <!-- Translator: pupiloalpha@xda -->
 <resources>
     <string name="app_name">Multi Boot Manager Free</string>
-    <string name="newitem">Novo</string>
     <string name="edit">Editar</string>
     <string name="edits">"Editar "</string>
-    <string name="details">Detalhes</string>
-    <string name="resize">Redimensionar</string>
-    <string name="seticon">Ajustar ícone</string>
     <string name="delete">"Deletar "</string>
-    <string name="reset">Configurações Originais</string>
-    <string name="setdefault">Definir como padrão</string>
     <string name="description">Multi Boot Manager Free</string>
     <string name="nodata">Nenhum fsimages enconctrado!!!</string>
-    <string name="wipe">Limpar VFS</string>
     <string name="sysinfo">Informações do Sistema</string>
     <string name="okay">Aceitar</string>
     <string name="cancel">Cancelar</string>
-    <string name="seticfor">"Ajustar ícone para "</string>
     <string name="rusure">Tem certeza?</string>
-    <string name="fdaco">"Formatar Dados e Cache de "</string>
-    <string name="wantreset">"Você deseja formatar cache.img e data.img de "</string>
     <string name="formating">"Formatando "</string>
     <string name="cachext3">/cache.img para ext3....</string>
     <string name="dataext3">/data.img para ext3....</string>
-    <string name="wipe2">"Limpar "</string>
     <string name="systemext3">/system.img para ext3....</string>
     <string name="mbnactive">MULTIBOOT não ativo</string>
     <string name="mbactive">MULTIBOOT ativo</string>
@@ -38,7 +27,6 @@
     <string name="bcount">"Contagem de Bloco\u0009\u0009\u0009: "</string>
     <string name="fbcount">"Sem Blocos\u0009\u0009\u0009: "</string>
     <string name="blsiz">"Tamabho do Bloco\u0009\u0009\u0009: "</string>
-    <string name="newvfs">Novo VFS</string>
     <string name="mknewfold">"Criando nova pasta "</string>
     <string name="creating">"Creating "</string>
     <string name="cacheimg">/cache.img....</string>
@@ -165,15 +153,7 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="datas">dados:</string>
     <string name="systems">sistema:</string>
     <string name="healthy">funcionalidade</string>
-    <string name="newvfsi">Novo VFS (</string>
-    <string name="newname">Nome</string>
     <string name="shrtdesc">Insira uma descrição curta :</string>
     <string name="entername">Insira o nome</string>
-    <string name="entdesc">Descrição</string>
-    <string name="sizcachemb">Tamanho do cache.img em MiB</string>
-    <string name="namevfs">Nome do VFS</string>
-    <string name="entsize">Insira o tamanho</string>
-    <string name="sizdatamb">Tamanho do data.img em MiB</string>
-    <string name="sizsysmb">Tamanho do system.img em MiB</string>
     <string name="icon_prompt">Escolha um ícone</string>
 </resources>

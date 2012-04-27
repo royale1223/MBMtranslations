@@ -2,29 +2,18 @@
 <resources>
 
     <string name="app_name">Multi Boot Manager Free</string>
-    <string name="newitem">Nowy</string>
     <string name="edit">Edytuj</string>
     <string name="edits">Edytuj\u0020</string>
-    <string name="details">Szczegóły</string>
-    <string name="resize">Zmień rozmiar</string>
-    <string name="seticon">Ustaw ikonę</string>
     <string name="delete">Usuń\u0020</string>
-    <string name="reset">Ustawienia fabryczne</string>
-    <string name="setdefault">Ustaw jako domyślny</string>
     <string name="description">Multi Boot Manager Free</string>
     <string name="nodata">Nie znaleziono obrazu VFS!!!</string>
-    <string name="wipe">Wipe VFS</string>
     <string name="sysinfo">Informacje o systemie</string>
     <string name="okay">OK</string>
     <string name="cancel">Anuluj</string>
-    <string name="seticfor">Ustaw ikonę dla\u0020</string>
     <string name="rusure">Jesteś pewny?</string>
-    <string name="fdaco">Formatuj Dane i Cache\u0020</string>
-    <string name="wantreset">Chcesz sformatować cache.img oraz data.img w\u0020</string>
     <string name="formating">Formatowanie\u0020</string>
     <string name="cachext3">/cache.img do ext3....</string>
     <string name="dataext3">/data.img do ext3....</string>
-    <string name="wipe2">Wipe\u0020</string>
     <string name="systemext3">/system.img do ext3....</string>
     <string name="mbnactive">MULTIBOOT nieaktywny</string>
     <string name="mbactive">MULTIBOOT aktywny</string>
@@ -38,7 +27,6 @@
     <string name="bcount">Ilość bloków\t\t\t:\u0020</string>
     <string name="fbcount">Wolne bloki\t\t\t:\u0020</string>
     <string name="blsiz">Rozmiar bloku\t\t\t:\u0020</string>
-    <string name="newvfs">Nowy VFS</string>
     <string name="mknewfold">Utwórz nowy folder\u0020</string>
     <string name="creating">Tworzenie\u0020</string>
     <string name="cacheimg">/cache.img....</string>
@@ -164,19 +152,10 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="datas">dane:</string>
     <string name="systems">system:</string>
     <string name="healthy">zdrowy</string>
-    <string name="newvfsi">Nowy VFS (</string>
-    <string name="newname">Nazwa</string>
     <string name="shrtdesc">Wpisz krótki opis :</string>
     <string name="entername">Wpisz żądaną nazwę</string>
-    <string name="entdesc">Opis</string>
-    <string name="sizcachemb">Rozmiar cache.img w MiB</string>
-    <string name="namevfs">Nazwa VFS</string>
-    <string name="entsize">Wpisz rozmiar</string>
-    <string name="sizdatamb">Rozmiar data.img w MiB</string>
-    <string name="sizsysmb">Rozmiar system.img w MiB</string>
     <string name="icon_prompt">Wybierz ikonę</string>
 <string name="createvfs">Utwórz nowy VFS</string>
 <string name="refresui">Odśwież UI</string>
 <string name="repbug">Zgłóś błąd</string>
-<string name="wantwipe">Chcesz sformatować cache.img, data.img, system.img w\u0020</string>
 </resources>

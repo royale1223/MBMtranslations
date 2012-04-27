@@ -2,29 +2,18 @@
 <!-- Translator: crakeron@xda -->
 <resources>
     <string name="app_name">Multi Boot Manager Free</string>
-    <string name="newitem">Nouveau</string>
     <string name="edit">Editer</string>
     <string name="edits">Editer\u0020</string>
-    <string name="details">Détails</string>
-    <string name="resize">Redimensionner</string>
-    <string name="seticon">Choisir Icône</string>
     <string name="delete">Supprimer\u0020</string>
-    <string name="reset">Remise à zéro</string>
-    <string name="setdefault">Valeurs par défaut</string>
     <string name="description">Multi Boot Manager Free</string>
     <string name="nodata">Aucune image virtuelle FS trouvée!</string>
-    <string name="wipe">Effacer les images virtuelles (VFS)</string>
     <string name="sysinfo">Informations Système</string>
     <string name="okay">Ok</string>
     <string name="cancel">Annuler</string>
-    <string name="seticfor">"Choisir l'icône pour\u0020"</string>
     <string name="rusure">Etes vous sûr?</string>
-    <string name="fdaco">Formater Data et Cache de\u0020</string>
-    <string name="wantreset">Voulez vous formater data.img et cache.img de\u0020</string>
     <string name="formating">Formatage en cours\u0020</string>
     <string name="cachext3">/cache.img to ext3....</string>
     <string name="dataext3">/data.img to ext3....</string>
-    <string name="wipe2">Effacer\u0020</string>
     <string name="systemext3">/system.img to ext3....</string>
     <string name="mbnactive">MULTIBOOT inactif</string>
     <string name="mbactive">MULTIBOOT actif</string>
@@ -38,7 +27,6 @@
     <string name="bcount">Block Count\t\t\t:\u0020</string>
     <string name="fbcount">Blocks Libres\t\t\t:\u0020</string>
     <string name="blsiz">Taille des blocks\t\t\t:\u0020</string>
-    <string name="newvfs">Nouveau VFS</string>
     <string name="mknewfold">Creation du dossier\u0020</string>
     <string name="creating">Creation en cours\u0020</string>
     <string name="cacheimg">/cache.img....</string>
@@ -165,19 +153,10 @@ Site Web: http://www.ubuntumaster.tk/
     <string name="datas">data: </string>
     <string name="systems">system: </string>
     <string name="healthy">Etat normal</string>
-    <string name="newvfsi">New VFS (</string>
-    <string name="newname">Name</string>
     <string name="shrtdesc">Enter short description :</string>
     <string name="entername">Enter desired name</string>
-    <string name="entdesc">Description</string>
-    <string name="sizcachemb">Taille du cache.img dans MiB</string>
-    <string name="namevfs">Nom du VFS</string>
-    <string name="entsize">Entrez la taille souhaitée</string>
-    <string name="sizdatamb">Taille de data.img dans MiB</string>
-    <string name="sizsysmb">Taille de system.img dans MiB</string>
     <string name="icon_prompt">Choisissez un icône</string>
 <string name="createvfs">Créer nouvelle image virtuelle</string>
 <string name="refresui">Raffraichir</string>
 <string name="repbug">Signaler un bug</string>
-<string name="wantwipe">Voulez vous formater cache.img, data.img et system.img de\u0020</string>
 </resources>

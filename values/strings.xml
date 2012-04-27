@@ -2,29 +2,18 @@
 <resources>
 
     <string name="app_name">Multi Boot Manager Free</string>
-    <string name="newitem">New</string>
     <string name="edit">Edit</string>
     <string name="edits">Edit\u0020</string>
-    <string name="details">Details</string>
-    <string name="resize">Resize</string>
-    <string name="seticon">Set icon</string>
     <string name="delete">Delete\u0020</string>
-    <string name="reset">Factory Reset</string>
-    <string name="setdefault">Set as default</string>
     <string name="description">Multi Boot Manager Free</string>
     <string name="nodata">No fsimages found!!!</string>
-    <string name="wipe">Wipe whole VFS</string>
     <string name="sysinfo">System Info</string>
     <string name="okay">Okay</string>
     <string name="cancel">Cancel</string>
-    <string name="seticfor">Set icon for\u0020</string>
     <string name="rusure">Are you sure?</string>
-    <string name="fdaco">Format Data and Cache of\u0020</string>
-    <string name="wantreset">Do you want to format cache.img and data.img from\u0020</string>
     <string name="formating">Formating\u0020</string>
     <string name="cachext3">/cache.img to ext3....</string>
     <string name="dataext3">/data.img to ext3....</string>
-    <string name="wipe2">Wipe\u0020</string>
     <string name="systemext3">/system.img to ext3....</string>
     <string name="mbnactive">MULTIBOOT not active</string>
     <string name="mbactive">MULTIBOOT active</string>
@@ -38,7 +27,6 @@
     <string name="bcount">Block Count\t\t\t:\u0020</string>
     <string name="fbcount">Free Blocks\t\t\t:\u0020</string>
     <string name="blsiz">Block Size\t\t\t:\u0020</string>
-    <string name="newvfs">New VFS</string>
     <string name="mknewfold">Making new folder\u0020</string>
     <string name="creating">Creating\u0020</string>
     <string name="cacheimg">/cache.img....</string>
@@ -175,16 +163,8 @@ Web Site: http://www.ubuntumaster.tk/
     <string name="datas">data: </string>
     <string name="systems">system: </string>
     <string name="healthy">healthy</string>
-    <string name="newvfsi">New VFS (</string>
-    <string name="newname">Name</string>
-    <string name="shrtdesc">Enter short description :</string>
+    <string name="shrtdesc">Enter description</string>
     <string name="entername">Enter desired name</string>
-    <string name="entdesc">Description</string>
-    <string name="sizcachemb">Size of cache in MB</string>
-    <string name="namevfs">Name of VFS</string>
-    <string name="entsize">Enter desired size</string>
-    <string name="sizdatamb">Size of data in MB</string>
-    <string name="sizsysmb">Size of system in MB</string>
     <string name="icon_prompt">Choose an icon</string>
 
     <string-array name="icon_array">
@@ -199,24 +179,38 @@ Web Site: http://www.ubuntumaster.tk/
         <item>Pikachu MIUI</item>
         <item>WhiteRabbit MIUI</item>
         <item>WIUI</item>
-        <item >AKOP</item>
-        <item >CodeName</item>
-        <item >MIUI v4</item>
-        <item >Cherry Picks</item>
-        <item >Epsylon3</item>
-        <item >Quarx2k</item>
+        <item>AKOP</item>
+        <item>CodeName</item>
+        <item>MIUI v4</item>
+        <item>Cherry Picks</item>
+        <item>Epsylon3</item>
+        <item>Quarx2k</item>
+        <item>CyanogenMod</item>
+        <item >Argen2Stone 3</item>
+        <item >Defy Froyo Sense</item>
+        <item >DianXin OS</item>
+        <item >Nothing But Speed</item>
+        <item >BareBone</item>
     </string-array>
-<string name="createvfs">Create new VFS</string>
-<string name="refresui">Refresh UI</string>
-<string name="repbug">Report a bug</string>
-<string name="wantwipe">Do you want to format cache.img, data.img and system.img from\u0020</string>
-<string name="currsys">Current System</string>
-<string name="currrom">Current ROM</string>
-<string name="currkernel">Current Kernel</string>
-<string name="currpath">Current path</string>
-<string name="device">Device</string>
-<string name="none">None</string>
-<string name="nand">NAND</string>
-<string name="na">N/A</string>
-<string name="corrupted">corrupted</string>
+
+    <string name="createvfs">Create new VFS</string>
+    <string name="refresui">Refresh</string>
+    <string name="repbug">Report a bug</string>
+    <string name="currsys">Current System</string>
+    <string name="currrom">Current ROM</string>
+    <string name="currkernel">Current Kernel</string>
+    <string name="currpath">Current path</string>
+    <string name="device">Device</string>
+    <string name="none">None</string>
+    <string name="nand">NAND</string>
+    <string name="na">N/A</string>
+    <string name="corrupted">corrupted</string>
+    <string name="format">Format\u0020</string>
+    <string name="cache">Cache</string>
+    <string name="data">Data</string>
+    <string name="system">System</string>
+    <string name="untitled">Untitled_VFS</string>
+    <string name="sizemb">in MB</string>
+    <string name="newfsi">New VFS (</string>
+
 </resources>
